@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": false,
       "cwd": "/workspaces/Daniel-Practice",
-      "program": "/workspaces/Daniel-Practice/build/Release/outRelease",
+      "program": "/workspaces/Daniel-Practice/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
